@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 0dc26d113ea4faf40871ac98ff494d8e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -8895885537181986991
+    second: Ring Bot|CameraAction
+  - first:
+      74: -7368922671519354295
+    second: Ring Bot|LightAction
+  - first:
+      74: 6229367594447964655
+    second: Ring Bot|Ring BotAction
+  - first:
+      74: -6151855333297739444
+    second: Ring Bot|Ring TopAction
+  - first:
+      74: -7718663035430577932
+    second: Ring Bot|Sphere.001Action
+  - first:
+      74: -724244522042924291
+    second: Ring Bot|Sphere.002Action
+  - first:
+      74: 1198893806427282654
+    second: Ring Bot|SphereAction
+  - first:
+      74: 4741924027586439663
+    second: Ring Bot|Staff_BaseAction
+  - first:
+      74: 33698274238455003
+    second: Ring Bot|Staff_BotAction
+  - first:
+      74: -8273211530673120427
+    second: Ring Bot|Staff_TopAction
+  - first:
+      74: -7058189391908901382
+    second: Ring Bot|StrapAction
+  - first:
+      74: -7216306515199756814
+    second: Ring Top|CameraAction
+  - first:
+      74: 7694779020155657737
+    second: Ring Top|LightAction
+  - first:
+      74: 2753789087292274201
+    second: Ring Top|Ring BotAction
+  - first:
+      74: 3123458974641512574
+    second: Ring Top|Ring TopAction
+  - first:
+      74: -7691873375370400328
+    second: Ring Top|Sphere.001Action
+  - first:
+      74: 4740046932934466006
+    second: Ring Top|Sphere.002Action
+  - first:
+      74: 616029024431691146
+    second: Ring Top|SphereAction
+  - first:
+      74: 5728143769274796631
+    second: Ring Top|Staff_BaseAction
+  - first:
+      74: -7698965978378851720
+    second: Ring Top|Staff_BotAction
+  - first:
+      74: 3006962633258522759
+    second: Ring Top|Staff_TopAction
+  - first:
+      74: 8739555089456446093
+    second: Ring Top|StrapAction
+  - first:
+      74: -6216658582786305848
+    second: Staff_Bot|CameraAction
+  - first:
+      74: 7628736096703906934
+    second: Staff_Bot|LightAction
+  - first:
+      74: 5869050067166434419
+    second: Staff_Bot|Ring BotAction
+  - first:
+      74: -4657312007819267718
+    second: Staff_Bot|Ring TopAction
+  - first:
+      74: -6724492107901544360
+    second: Staff_Bot|Sphere.001Action
+  - first:
+      74: 77640419432054520
+    second: Staff_Bot|Sphere.002Action
+  - first:
+      74: 3447031081425996561
+    second: Staff_Bot|SphereAction
+  - first:
+      74: 3775633147442992975
+    second: Staff_Bot|Staff_BaseAction
+  - first:
+      74: -3594958120732802803
+    second: Staff_Bot|Staff_BotAction
+  - first:
+      74: 2005243636932000243
+    second: Staff_Bot|Staff_TopAction
+  - first:
+      74: 5862327916825682741
+    second: Staff_Bot|StrapAction
+  - first:
+      74: -5945067276792702191
+    second: Staff_Top|CameraAction
+  - first:
+      74: 425830913342901022
+    second: Staff_Top|LightAction
+  - first:
+      74: 2760691271007173413
+    second: Staff_Top|Ring BotAction
+  - first:
+      74: -8589617909826307711
+    second: Staff_Top|Ring TopAction
+  - first:
+      74: -7160365427027790115
+    second: Staff_Top|Sphere.001Action
+  - first:
+      74: -3744525220433557907
+    second: Staff_Top|Sphere.002Action
+  - first:
+      74: -6291940203804282677
+    second: Staff_Top|SphereAction
+  - first:
+      74: 5612844910482326449
+    second: Staff_Top|Staff_BaseAction
+  - first:
+      74: 8264751183655647917
+    second: Staff_Top|Staff_BotAction
+  - first:
+      74: 8257935998346907810
+    second: Staff_Top|Staff_TopAction
+  - first:
+      74: 1222461485328063705
+    second: Staff_Top|StrapAction
+  - first:
+      74: -2284207517274040680
+    second: Staff_Base|CameraAction
+  - first:
+      74: 6364968476394594600
+    second: Staff_Base|LightAction
+  - first:
+      74: -334520662826905518
+    second: Staff_Base|Ring BotAction
+  - first:
+      74: -7392625250080836280
+    second: Staff_Base|Ring TopAction
+  - first:
+      74: -4772790021212402079
+    second: Staff_Base|Sphere.001Action
+  - first:
+      74: -7480274867886321322
+    second: Staff_Base|Sphere.002Action
+  - first:
+      74: 6060284238981016166
+    second: Staff_Base|SphereAction
+  - first:
+      74: 4879851379496545634
+    second: Staff_Base|Staff_BaseAction
+  - first:
+      74: -2074827866709677859
+    second: Staff_Base|Staff_BotAction
+  - first:
+      74: -2124071360599216129
+    second: Staff_Base|Staff_TopAction
+  - first:
+      74: -2549558257628899818
+    second: Staff_Base|StrapAction
+  - first:
+      74: -7083854022086469035
+    second: Strap|CameraAction
+  - first:
+      74: -7124068547372709005
+    second: Strap|LightAction
+  - first:
+      74: -5864217277472458794
+    second: Strap|Ring BotAction
+  - first:
+      74: -4592597415367346276
+    second: Strap|Ring TopAction
+  - first:
+      74: -3956598791755205512
+    second: Strap|Sphere.001Action
+  - first:
+      74: -9085736099997872238
+    second: Strap|Sphere.002Action
+  - first:
+      74: 1208577009194948722
+    second: Strap|SphereAction
+  - first:
+      74: 8281108317730893271
+    second: Strap|Staff_BaseAction
+  - first:
+      74: -4384214972714920238
+    second: Strap|Staff_BotAction
+  - first:
+      74: 1618715375858270675
+    second: Strap|Staff_TopAction
+  - first:
+      74: -7672971322133326572
+    second: Strap|StrapAction
+  - first:
+      74: -437078509911184173
+    second: Light|CameraAction
+  - first:
+      74: -7626363906017909467
+    second: Light|LightAction
+  - first:
+      74: -4440295613280881084
+    second: Light|Ring BotAction
+  - first:
+      74: -7159782784258645595
+    second: Light|Ring TopAction
+  - first:
+      74: 7429849385520177162
+    second: Light|Sphere.001Action
+  - first:
+      74: -5858836628570536990
+    second: Light|Sphere.002Action
+  - first:
+      74: -6950010595071455096
+    second: Light|SphereAction
+  - first:
+      74: 226773290781906541
+    second: Light|Staff_BaseAction
+  - first:
+      74: 8745520313732735390
+    second: Light|Staff_BotAction
+  - first:
+      74: 6433397465578338139
+    second: Light|Staff_TopAction
+  - first:
+      74: 1776227182063633887
+    second: Light|StrapAction
+  - first:
+      74: 8440248360967096626
+    second: Camera|CameraAction
+  - first:
+      74: -1513925036567710636
+    second: Camera|LightAction
+  - first:
+      74: 4688246370099680553
+    second: Camera|Ring BotAction
+  - first:
+      74: -745917130580939159
+    second: Camera|Ring TopAction
+  - first:
+      74: -3354818698611602066
+    second: Camera|Sphere.001Action
+  - first:
+      74: 1983613718420385845
+    second: Camera|Sphere.002Action
+  - first:
+      74: -1958668491520462804
+    second: Camera|SphereAction
+  - first:
+      74: -5183367430336749908
+    second: Camera|Staff_BaseAction
+  - first:
+      74: 8395406444756399413
+    second: Camera|Staff_BotAction
+  - first:
+      74: 5747861263156115255
+    second: Camera|Staff_TopAction
+  - first:
+      74: -7937587891877129378
+    second: Camera|StrapAction
+  - first:
+      74: 4996564767056256080
+    second: Sphere|CameraAction
+  - first:
+      74: 8881254776753207653
+    second: Sphere|LightAction
+  - first:
+      74: -642642420294286532
+    second: Sphere|Ring BotAction
+  - first:
+      74: -6027519881462483888
+    second: Sphere|Ring TopAction
+  - first:
+      74: 2623217103694749759
+    second: Sphere|Sphere.001Action
+  - first:
+      74: -3177975497958255916
+    second: Sphere|Sphere.002Action
+  - first:
+      74: -3100628101864396295
+    second: Sphere|SphereAction
+  - first:
+      74: 8132111165261788060
+    second: Sphere|Staff_BaseAction
+  - first:
+      74: 7333064681193984557
+    second: Sphere|Staff_BotAction
+  - first:
+      74: 999438129973356571
+    second: Sphere|Staff_TopAction
+  - first:
+      74: -6033507174672136383
+    second: Sphere|StrapAction
+  - first:
+      74: -4155408515116315052
+    second: Sphere.001|CameraAction
+  - first:
+      74: -3862449635083786983
+    second: Sphere.001|LightAction
+  - first:
+      74: -1761312601641583137
+    second: Sphere.001|Ring BotAction
+  - first:
+      74: -372759426845612966
+    second: Sphere.001|Ring TopAction
+  - first:
+      74: -3036527314473485615
+    second: Sphere.001|Sphere.001Action
+  - first:
+      74: -4436524472899874534
+    second: Sphere.001|Sphere.002Action
+  - first:
+      74: -1446629187303088666
+    second: Sphere.001|SphereAction
+  - first:
+      74: -1015451364174453068
+    second: Sphere.001|Staff_BaseAction
+  - first:
+      74: 3019734097343068435
+    second: Sphere.001|Staff_BotAction
+  - first:
+      74: 8890278585328883420
+    second: Sphere.001|Staff_TopAction
+  - first:
+      74: 2578382248231604448
+    second: Sphere.001|StrapAction
+  - first:
+      74: -2701013476745686249
+    second: Sphere.002|CameraAction
+  - first:
+      74: 1005499522376482526
+    second: Sphere.002|LightAction
+  - first:
+      74: -8661884346350593692
+    second: Sphere.002|Ring BotAction
+  - first:
+      74: -8790355909357566709
+    second: Sphere.002|Ring TopAction
+  - first:
+      74: -5899806263776302030
+    second: Sphere.002|Sphere.001Action
+  - first:
+      74: 6260389476474903853
+    second: Sphere.002|Sphere.002Action
+  - first:
+      74: -3422961032161299351
+    second: Sphere.002|SphereAction
+  - first:
+      74: 321915864350033842
+    second: Sphere.002|Staff_BaseAction
+  - first:
+      74: -3846344010322391976
+    second: Sphere.002|Staff_BotAction
+  - first:
+      74: 6223129640713317881
+    second: Sphere.002|Staff_TopAction
+  - first:
+      74: -7560887817565571198
+    second: Sphere.002|StrapAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
